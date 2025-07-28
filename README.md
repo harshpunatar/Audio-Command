@@ -29,7 +29,7 @@ The `app.py` file provides an interactive Streamlit interface to upload an audio
 3. Upload a .wav file (e.g., "yes.wav", "no.wav") to test the model.
 
 
-📌 Future Scope
+###📌 Future Scope
 Add support for more commands
 
 Improve accuracy with larger architecture
