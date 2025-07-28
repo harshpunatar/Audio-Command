@@ -4,7 +4,7 @@ A deep learning-powered system that recognizes spoken commands from `.wav` audio
 
 ## 🧠 Model
 
-- Model file: `model.h5`
+- Model file: `audio_command_model.h5`
 - Input Features: MFCC + Mel Spectrogram
 - Accuracy: **84.2%**
 - Framework: TensorFlow / Keras
@@ -28,14 +28,14 @@ The `app.py` file provides an interactive Streamlit interface to upload an audio
 
 3. Upload a .wav file (e.g., "yes.wav", "no.wav") to test the model.
 
+---
 
-###📌 Future Scope
+
+##📌 Future Scope
+
 Add support for more commands
-
 Improve accuracy with larger architecture
-
 Real-time voice input via microphone
-
 Add data visualization in the UI
 
 
